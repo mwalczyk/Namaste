@@ -6,6 +6,7 @@
 #include <string>
 
 #include "geometry.h"
+#include "transform.h"
 
 struct Options
 {
@@ -48,7 +49,11 @@ int main(int argc, char *argv[])
 	Vector v1(1.0f, 0.0f, 0.0f);	// x-axis
 	Vector v2, v3;
 	coordinateSystem(v1, &v2, &v3);
+
 	std::cout << v2 << " " << v3 << std::endl;
+
+	Matrix4x4 m;
+	std::cout << m;
 
 	if (filenames.size() == 0)
 	{

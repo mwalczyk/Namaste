@@ -1,7 +1,4 @@
-﻿  Namaste.cpp
-c:\users\michael.walczyk\documents\visual studio 2015\projects\namaste\namaste\namaste.cpp(52): error C2440: 'initializing': cannot convert from 'float' to 'namaste::Vector'
-  c:\users\michael.walczyk\documents\visual studio 2015\projects\namaste\namaste\namaste.cpp(52): note: Constructor for class 'namaste::Vector' is declared 'explicit'
+﻿  transform.cpp
+  Namaste.cpp
   Generating Code...
-  Compiling...
-  geometry.cpp
-  Generating Code...
+  Namaste.vcxproj -> C:\Users\michael.walczyk\documents\visual studio 2015\Projects\Namaste\Debug\Namaste.exe
