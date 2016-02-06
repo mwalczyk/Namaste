@@ -1,0 +1,1 @@
+A physically based rendering engine based on Matt Phar and Greg Humphreys' book, "Physically Based Rendering: From Theory to Implementation."
